@@ -1,0 +1,16 @@
+body {
+    background-color: #cfcfcf;
+}
+
+p {
+    color:rgb(255, 0, 0);
+}
+
+a {
+    font-weight: bold;
+}
+
+a:hover {
+    background-color: lightblue;
+    color: lightcyan;
+}
